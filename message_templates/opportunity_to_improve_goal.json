@@ -71,7 +71,7 @@
   },
   "Message text": [
     {
-      "@value": "Seminar attendance may have an opportunity to improve for the measure [measure name]. Seminar attendance was [recipient performance level], below the [comparator performance level] goal."
+      "@value": "There is an opportunity to improve attendance next week. Keep going!" 
     }
   ],
   "schema:isBasedOn": "https://repo.metadatacenter.org/templates/707d3573-8ac9-4e2c-b53b-2026a795308c",
@@ -89,7 +89,7 @@
   "pav:derivedFrom": "https://repo.metadatacenter.org/template-instances/ffb029f4-104f-437d-9ea3-d85a46b4b87b",
   "@id": "https://repo.metadatacenter.org/template-instances/0a7d1907-7884-4705-a503-df4a5687c493",
   "Additional message text": {
-    "@value": "A case-by-case breakdown of your results are available at your [clinical quality dashboard (link)]. More information about the rationale for the measure [measure name] and how it is calculated is available [here (link to measure spec)]."
+    "@value": ""
   },
   "default_display": {
     "@value": "bar chart"

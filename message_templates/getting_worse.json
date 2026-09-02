@@ -63,7 +63,7 @@
   },
   "Message text": [
     {
-      "@value": "Seminar attendance fell this week for the measure [measure name]. Seminar attendance was [recipient performance level]."
+      "@value": "Attendance slipped this week. Let's get that momentum back!"
     }
   ],
   "schema:isBasedOn": "https://repo.metadatacenter.org/templates/707d3573-8ac9-4e2c-b53b-2026a795308c",
@@ -80,7 +80,7 @@
     "@type": "xsd:decimal"
   },
   "Additional message text": {
-    "@value": "A case-by-case breakdown of your results are available at your [clinical quality dashboard (link)]. More information about the rationale for the measure [measure name] and how it is calculated is available [here (link to measure spec)]."
+    "@value": ""
   },
   "Default display": {
     "@value": "line chart"
