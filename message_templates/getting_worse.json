@@ -63,7 +63,7 @@
   },
   "Message text": [
     {
-      "@value": "Attendance slipped this week. Let's get that momentum back!"
+      "@value": "Attendance slipped this week. Seminar attendance was [receipt engagement level]. Let's get that momentum back!"
     }
   ],
   "schema:isBasedOn": "https://repo.metadatacenter.org/templates/707d3573-8ac9-4e2c-b53b-2026a795308c",

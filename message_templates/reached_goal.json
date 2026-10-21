@@ -79,7 +79,7 @@
   },
   "Message text": [
     {
-      "@value": "Congratulations! Attendance reached the goal! Nice work!"
+      "@value": "Congratulations! Seminar attendance reached the goal [comparator engagement level] for this week! Seminar attendance was [receipt engagement level]. Nice work!"
     }
   ],
   "schema:isBasedOn": "https://repo.metadatacenter.org/templates/707d3573-8ac9-4e2c-b53b-2026a795308c",
