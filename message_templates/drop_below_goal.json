@@ -79,7 +79,7 @@
   },
   "Message text": [
     {
-      "@value": "Seminar attendance has dropped below the goal 80% goal for this week. This week, seminar attendance was 10%. Let's work together to get back on track!"
+      "@value": "Seminar attendance has dropped below the goal [comparator performance level] for this week. This week, attendance was [recipient performance level]. Let's work together to get back on track!"
     }
   ],
   "schema:isBasedOn": "https://repo.metadatacenter.org/templates/707d3573-8ac9-4e2c-b53b-2026a795308c",

@@ -75,7 +75,7 @@
   },
   "Message text": [
     {
-      "@value": "Great work! Attendance is approaching the goal! The attendance increased to [receipt engagement level], and the goal was [comparator engagement level]. Keep up the good work!" 
+      "@value": "Great work! Attendance is approaching the goal! The attendance increased to [recipient performance level], and the goal was [comparator performance level]. Keep up the good work!" 
     }
   ],
   "schema:isBasedOn": "https://repo.metadatacenter.org/templates/707d3573-8ac9-4e2c-b53b-2026a795308c",

@@ -71,7 +71,7 @@
   },
   "Message text": [
     {
-      "@value": "There is an opportunity to improve attendance next week. Seminar attendance was [receipt engagement level]. Which is right below the goal of [comparator engagement level]. Keep going!" 
+      "@value": "There is an opportunity to improve seminar attendance next week. Attendance was [recipient performance level]. Which is right below the goal of [comparator performance level]. Keep going!" 
     }
   ],
   "schema:isBasedOn": "https://repo.metadatacenter.org/templates/707d3573-8ac9-4e2c-b53b-2026a795308c",
